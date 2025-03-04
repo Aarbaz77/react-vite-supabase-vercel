@@ -29,6 +29,10 @@
   padding: 0;
 }
 
+.logo.small {
+  transform: scale(0.5);
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
